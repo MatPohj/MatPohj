@@ -1,6 +1,6 @@
 ## Hello stranger 
 Hello! I'm Matti Pohjanoksa, an IT student from Haaga-helia 🇫🇮.
-Currently I'm mostly interested in learning Full-stack development, loud services (mostly AWS for now) and cybersecurity
+Currently I'm mostly interested in learning Full-stack development, Cloud services (mostly AWS for now) and Cybersecurity
 
 ### 🔭 I’m currently working on:🔭
 * [Course project for my Back end course.](https://github.com/MatPohj/Raspi-2FA-Backend-Course-Project) Making a basic Spring boot application with DB and account management etc so you can sign in. Spicing it up with Raspberry-Pi two factor authentication via it's RFC522 NFC Reader. 

@@ -1,5 +1,5 @@
 ## Hello stranger 
-Hello! I'm Matti Pohjanoksa, an IT student from Haaga-helia 🇫🇮 .
+Hello! I'm Matti Pohjanoksa, an IT student from Haaga-helia :flag_finland: .
 Currently I'm mostly interested in learning Full-stack development, Cloud services (mostly AWS for now) and Cybersecurity
 
 ### 🔭 I’m currently working on:🔭

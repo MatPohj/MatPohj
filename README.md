@@ -9,7 +9,7 @@ Currently I'm mostly interested in learning Full-stack development, loud service
 
 ### ✅Some project's I've "finished" ✅
 > * Nothing is never truly finished... *
-* [Coin cather game with Pygame] (https://github.com/MatPohj/coin-catcher-pygame). Fun project I made for the Helsinki University's [MOOC Advanced Course in Programming](https://programming-25.mooc.fi/)
+* [Coin cather game with Pygame](https://github.com/MatPohj/coin-catcher-pygame). Fun project I made for the Helsinki University's [MOOC Advanced Course in Programming](https://programming-25.mooc.fi/)
 * [My first website using basic HTML and CSS.](https://matpohj.github.io/Legendojen_akatemia/) It's accessible via phone & computer
   
 ### 🍇Some stuff I've made using Raspberry Pi 🍇

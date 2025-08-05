@@ -1,10 +1,10 @@
 ## Hello stranger 
 Hello! I'm Matti Pohjanoksa, an IT student from Haaga-helia.
-Currently I'm mostly interested in learning Full-stack development, Cloud services (mostly AWS for now) and Cybersecurity
+Currently I'm mostly interested in  Cloud services (mostly AWS for now) and Cybersecurity
 
 ### 🔭 I’m currently working on:🔭
-* Course project for my Front end course.
 * Some WiFi penetration testing with aircrack-ng etc
+* [Personal website](https://matpohj.fi/)
 
 ### ✅Some project's I've "finished" ✅
 > * Nothing is never truly finished... 
@@ -19,5 +19,5 @@ Currently I'm mostly interested in learning Full-stack development, Cloud servic
 * A "Bad USB" with raspberry pi pico, which runs as a HID-device. With it you are able to act as a keyboard. Some payloads I've made:
   - A payload which sets the volume to 100% and opens up a specific video. [Here is the demo for it](https://www.youtube.com/watch?v=xvFZjo5PgG0)
   - A script which opens up powershell and runs a script collecting the user's wifi's and then getting the passwords for them. In the payload you can either choose to save them into the pico or get print them out in the CLI. No video demo for this one.
-* Currently working on making a Github repo, where I'll share my journey with Raspberry Pi and all the project's I've made. 
+
 

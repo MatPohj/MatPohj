@@ -1,18 +1,22 @@
-## Hello stranger 
+# Hello stranger 
 Hello! I'm Matti Pohjanoksa, an IT student from Haaga-helia.
-I'm mostly interested in Cybersecurity and Cloud services (AWS). 
+I'm interested in Cybersecurity.
 
-### 🔭 I’m currently working on:🔭
-* [Personal website](https://matpohj.fi/).
-* [Penetration testing course](https://github.com/MatPohj/PenetrationTesting25S)
-
-### ✅Some project's I've "finished" ✅
-> * Nothing is never truly finished... 
-* [Coin cather game with Pygame](https://github.com/MatPohj/coin-catcher-pygame). Fun project I made for the Helsinki University's [MOOC Advanced Course in Programming](https://programming-25.mooc.fi/)
-* [Course project for my Back end course.](https://github.com/MatPohj/Raspi-2FA-Backend-Course-Project) A Spring Boot web app using Spring Security for login, enhanced with a custom NFC 2FA flow involving a Raspberry Pi with a RFID reader module and Python script for admin users. It also includes a CRUD feature for managing personal game statistics, persisted using Spring Data JPA and presented with Thymeleaf. Also pushed it to Heroku and connected it to a PostreSQL database.
-* Course project for the course [Software Project 1](https://github.com/FullFlip)
+## 🔭 I’m currently working on:🔭
+* [Application hacking](https://github.com/MatPohj/Application-Hacking)
   
-### 🍇Some stuff I've made using Raspberry Pi 🍇
+
+##✅Some project's / Courses I've "finished" ✅
+> * Nothing is never truly finished...
+* [Personal website](https://matpohj.fi/)
+* [Penetration testing course](https://github.com/MatPohj/PenetrationTesting25S)
+  * Learned a lot about pentesting and how to document stuff. Used tools like: nmap, foxyproxy/zap, sliver, hashcat/john, fuzzy and metasploit & metasploitable.
+* [Network attacks and reconnaissance](https://github.com/MatPohj/Network-Attacks-and-Reconnaissance-Autumn-25)
+  * Learned a lot about RFID/NFC, Wireshark and WiFi pentesting.
+* [Course project for my Back end course.](https://github.com/MatPohj/Raspi-2FA-Backend-Course-Project) A Spring Boot web app using Spring Security for login, enhanced with a custom NFC 2FA flow involving a Raspberry Pi with a RFID reader module and Python script for admin users. It also includes a CRUD feature for managing personal game statistics, persisted using Spring Data JPA and presented with Thymeleaf. Also pushed it to Heroku and connected it to a PostreSQL database.
+
+  
+## 🍇Some stuff I've made using Raspberry Pi 🍇
 
 * SambaDB for easier file transfer across devices within the same network.
 * Own VPN to acces my homenetwork remotely using PiVPN, Wireguard and DuckDNS.

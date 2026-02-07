@@ -6,7 +6,7 @@ I'm interested in Cybersecurity.
 * [Application hacking](https://github.com/MatPohj/Application-Hacking)
   
 
-##✅Some project's / Courses I've "finished" ✅
+## ✅Some project's / Courses I've "finished" ✅
 > * Nothing is never truly finished...
 * [Personal website](https://matpohj.fi/)
 * [Penetration testing course](https://github.com/MatPohj/PenetrationTesting25S)

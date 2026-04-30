@@ -1,6 +1,5 @@
 # Hello stranger 
-Hello! I'm Matti Pohjanoksa, an IT student from Haaga-helia.
-I'm interested in Cybersecurity.
+Hello!
 
 ## 🔭 I’m currently working on:🔭
 
